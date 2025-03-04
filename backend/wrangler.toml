@@ -2,5 +2,5 @@ name = "backend"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL = ""
-JWT_SECRET = ""
+DATABASE_URL="postgresql://postgres:mysecretpassword@localhost:5433/postgres"
+JWT_SECRET = "asdasdasd"
