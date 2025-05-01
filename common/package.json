@@ -1,17 +1,29 @@
 {
+<<<<<<< HEAD
   "name": "common",
   "version": "1.0.0",
   "main": "index.js",
   "description": "",
 	"main": "dist/index.js",
+=======
+  "name": "@100xdevs/common-app",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/index.js",
+>>>>>>> 315af2e5e90167a6397f20e1630c7e247c3a1ade
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "description": "",
   "dependencies": {
     "zod": "^3.24.2"
+=======
+  "dependencies": {
+    "zod": "^3.22.4"
+>>>>>>> 315af2e5e90167a6397f20e1630c7e247c3a1ade
   }
 }

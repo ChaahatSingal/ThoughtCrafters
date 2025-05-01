@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React,{useState} from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
@@ -116,3 +117,13 @@ return(
 );
 };
 export default SignupPage
+=======
+
+export const Signup = () => {
+    return (
+        <div>
+        <h1>Signup</h1>
+        </div>
+    )
+}
+>>>>>>> 315af2e5e90167a6397f20e1630c7e247c3a1ade

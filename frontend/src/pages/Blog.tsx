@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // src/pages/BlogPage.tsx
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
@@ -86,3 +87,13 @@ const BlogPage: React.FC = () => {
 };
 
 export default BlogPage;
+=======
+
+export const Blog = () => {
+    return (
+        <div>
+        <h1>Blog</h1>
+        </div>
+    )
+}
+>>>>>>> 315af2e5e90167a6397f20e1630c7e247c3a1ade
